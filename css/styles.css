@@ -57,10 +57,14 @@ h3 {
   top: 40px;
 }
 
-.skill-row{
-  width: 50%;
-  margin: 100px auto 100px auto;
-  text-align: left;
+.skills{
+  width: 40%;
+  margin: auto auto auto auto;
+  text-align: center;
+}
+
+.table1{
+  border-spacing: 1cm 1em;
 }
 
 .web_image{
