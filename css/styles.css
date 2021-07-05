@@ -29,7 +29,7 @@ h3 {
 }
 
 .top-container {
-  background-color: #ffe7d1;
+  background-color: #ffd9d1;
   position: relative;
   padding-top: 100px;
   height: 100%;
@@ -40,7 +40,7 @@ h3 {
 }
 
 .bottom-container {
-  background-color: #ffe7d1;
+  background-color: #ffd9d1;
   padding: 50px 0 20px;
 }
 
@@ -58,6 +58,7 @@ h3 {
 }
 
 .skills{
+  background-color: #ffd9d1;
   width: 40%;
   margin: auto auto auto auto;
   text-align: center;
