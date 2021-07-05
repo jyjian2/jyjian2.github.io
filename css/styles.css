@@ -59,7 +59,6 @@ h3 {
 }
 
 .skills{
-  background-color:#ffd9d1;
   width: 40%;
   margin: auto auto auto auto;
   text-align: center;
@@ -131,8 +130,8 @@ a:hover{
 }
 
 .copyright{
-  color: gray;
-  font-size: 0.75rem;
+  color: black;
+  font-size: 1.5rem;
   padding: 20px 0;
 }
 
