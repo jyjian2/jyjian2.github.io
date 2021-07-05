@@ -141,3 +141,8 @@ a:hover{
   font-size: 0.75rem;
   padding: 20px 0;
 }
+
+.profile_pic{
+  width: 400px;
+  height: auto;
+}
