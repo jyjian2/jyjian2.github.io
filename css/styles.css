@@ -59,7 +59,7 @@ h3 {
 }
 
 .skills{
-  background-color:#ffd9d1; 
+  background-color:#ffd9d1;
   width: 40%;
   margin: auto auto auto auto;
   text-align: center;
@@ -81,14 +81,6 @@ h3 {
   margin-left: 30px;
 }
 
-
-hr{
-  border: dotted gray;
-  border-bottom: none;
-  width: 4%;
-  margin: 100px auto;
-
-}
 
 .contact_message{
   width: 40%;
