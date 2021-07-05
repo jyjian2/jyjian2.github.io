@@ -36,6 +36,7 @@ h3 {
 }
 
 .middle-container {
+  background-color: #ffd9d1;
   margin: 0;
 }
 
@@ -58,7 +59,6 @@ h3 {
 }
 
 .skills{
-  background-color: #ffd9d1;
   width: 40%;
   margin: auto auto auto auto;
   text-align: center;
