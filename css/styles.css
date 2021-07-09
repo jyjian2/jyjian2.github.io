@@ -26,6 +26,8 @@ h2 {
 h3 {
   font-family: 'Montserrat', sans-serif;
   color: #11999E;
+  margin-left: .3em;
+  margin-right: .3em;
 }
 
 .top-container {
@@ -121,7 +123,7 @@ h3 {
 a{
   color: #11999E;
   font-family: 'Montserrat', sans-serif;
-  margin: 10px 20px;
+  margin: 5px 5px;
   text-decoration: none;
 }
 
